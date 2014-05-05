@@ -1,169 +1,79 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer,
+**List of participants:** Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer,
 Robin Boast, Nynke Bos
 
-**Coding the Humanities - Interfaces for learning and research**
+#Coding the Humanities - Interfaces for learning and research
 
-**List of participants**
+| 			Participant No *    | 			Participant organisation name     | 			Country     |
+|------------------------|--------------------------------------|----------------|
+| 			1 Jan Hein Hoogstad | 			University of Amsterdam           | 			Netherlands |
+| 			2 Robin Boast       | 			University of Amsterdam           | 			Netherlands |
+| 			3 Marijn Koolen     | 			University of Amsterdam           | 			Netherlands |
+| 			4 Sabrina C. Sauer  | 			University of Amsterdam           | 			Netherlands |
+| 			5 Nynke Bos         | 			University of Amsterdam           | 			Netherlands |
+| 			6 Lisa Zoth         | 			Dark Horse                        | 			Germany     |
+| 			7 Patrick Kenzler   | 			Dark Horse                        | 			Germany     |
+| 			8 Jill Cousins      | 			Europeana                         | 			Netherlands |
+| 			9 Alexandro Mancusi | 			Weyeser                           | 			Netherlands |
+| 			10 Wayne Modest     | 			National Museum of World Cultures | 			Netherlands |
+| 			11 Helmut Feier     | 			CastYourArt                       | 			Austria     |
+| 			12 Wolfgang Haas    | 			CastYourArt                       | 			Austria     |
 
-**Participant No \***
 
-**Participant organisation name**
 
-**Country**
+#Table of Contents
 
-1 Jan Hein Hoogstad
+**1. Excellence**  
 
-University of Amsterdam
-
-Netherlands
-
-2 Robin Boast
-
-University of Amsterdam
-
-Netherlands
-
-3 Marijn Koolen
-
-University of Amsterdam
-
-Netherlands
-
-4 Sabrina C. Sauer
-
-University of Amsterdam
-
-Netherlands
-
-5 Nynke Bos
-
-University of Amsterdam
-
-Netherlands
-
-6 Lisa Zoth
-
-Dark Horse
-
-Germany
-
-7 Patrick Kenzler
-
-Dark Horse
-
-Germany
-
-8 Jill Cousins
-
-Europeana
-
-Netherlands
-
-9 Alexandro Mancusi
-
-Weyeser
-
-Netherlands
-
-10 Wayne Modest
-
-National Museum of World Cultures
-
-Netherlands
-
-11 Helmut Feier
-
-CastYourArt
-
-Austria
-
-12 Wolfgang Haas
-
-CastYourArt
-
-Austria
-
-**Table of Contents**
-
-**1. Excellence**
-
-1.1 Objectives
-
-1.2 Relation to the Work Programme
-
-1.3 Concept and approach, quality of the coordination and support
+1.1 Objectives  
+1.2 Relation to the Work Programme  
+1.3 Concept and approach, quality of the coordination and support  
 measures
+1.3.1 Introduction  
+1.3.2 Assumptions involved  
+1.3.3 Approach  
+1.3.3.1 The Platform as Interface  
+1.3.3.2 The Lab as Interface  
+1.3.3.3 Collections as Interfaces  
 
-1.3.1 Introduction
+**2. Impact**  
 
-1.3.2 Assumptions involved
+2.1 Expected Impacts  
+2.2 Measures to maximize impact  
+2.2.1 Dissemination and Exploitation of Results  
+2.2.2 Communication Activities  
 
-1.3.3 Approach
+**3. Implementation**  
 
-1.3.3.1 The Platform as Interface
+3.1 Work plan - Work packages, deliverables and milestones  
+Table 3.1 a: Work package description  
+Table 3.1 b: List of Work Packages  
+Table 3.1 c: List of Deliverables  
+3.2 Management Structure and Procedures  
+Table 3.2 a: List of Milestones  
+Table 3.2 b: Critical Risks for Implementation  
+3.3 Consortium as a Whole  
+3.4 Resources to be Commited  
+Table 3.4 a: Summary of Staff Effort  
+Table 3.4 b: Other Direct Cost Items  
 
-1.3.3.2 The Lab as Interface
+**4. Members of the consortium**  
 
-1.3.3.3 Collections as Interfaces
-
-**2. Impact**
-
-2.1 Expected Impacts
-
-2.2 Measures to maximize impact
-
-2.2.1 Dissemination and Exploitation of Results
-
-2.2.2 Communication Activities
-
-**3. Implementation**
-
-3.1 Work plan - Work packages, deliverables and milestones
-
-Table 3.1 a: Work package description
-
-Table 3.1 b: List of Work Packages
-
-Table 3.1 c: List of Deliverables
-
-3.2 Management Structure and Procedures
-
-Table 3.2 a: List of Milestones
-
-Table 3.2 b: Critical Risks for Implementation
-
-3.3 Consortium as a Whole
-
-3.4 Resources to be Commited
-
-Table 3.4 a: Summary of Staff Effort
-
-Table 3.4 b: Other Direct Cost Items
-
-**4. Members of the consortium**
-
-4.1 Participants (applicants)
-
-4.1.1 University of Amsterdam
-
-4.1.2 Dark Horse
-
-4.1.3 Europeana
-
-4.1.4 National Museum of World Cultures
-
-4.1.5 Weyeser
-
-4.1.6 CastYourArt
+4.1 Participants (applicants)  
+4.1.1 University of Amsterdam  
+4.1.2 Dark Horse  
+4.1.3 Europeana  
+4.1.4 National Museum of World Cultures  
+4.1.5 Weyeser  
+4.1.6 CastYourArt  
 
 **5. Ethics and Security**
 
-**1. Excellence**
+#1. Excellence
 
-**1.1 Objectives**
+##1.1 Objective
 
 Learning and research (in the humanities) are hindered by a lack of
-coding skills and the seeming incommensurability of educating massive
+coding skills and the apparent incommensurability of educating massive
 groups of students and providing high quality education. Although
 traditional knowledge institutions are losing their monopoly on
 education and research, ICT skills and knowledge production remain
@@ -214,7 +124,7 @@ possible, thereby retaining high quality education.
 **The goal of addressing the issue of the elite** . We want to make
 learning and research accessible and relevant by offering interfaces
 that allow many different types of users to learn to use and do research
-with technology
+with technology.
 
 These objectives present learning and inclusion as problems of
 interfaces. By definition, interfaces determine who or what is included
@@ -222,7 +132,7 @@ and excluded. The focus of this project is thus on providing interfaces
 that increase inclusion, where users build, explore and reflect on
 digital tools and how we use them. The overarching goal is to weave
 technology and humanities together to foster innovation through three
-forums: an expandable platform for humanities students collaborate
+forums: an expandable platform where humanities students collaborate
 through coding, a lab space where humanities thinking influences product
 and business design, and an exhibition which engages technology, art,
 business, and humanities. We propose to do this in three parts:
@@ -230,19 +140,20 @@ business, and humanities. We propose to do this in three parts:
 **Platform as interface:** an expandable platform for humanities
 students to collaboratively learn programming and build tools for their
 research. The coding platform would develop new courses with both on and
-offline components. Our goal is to introduce four new courses of 12
-ETCs, one each year. The new courses would enable Coding the Humanities
-to expand students' introduction to programming to an open space where
-they would collaborate with people from all over the world in their ICT
-engagement. It would foster communication among students and other
-participants by serving as a space where they can share and experiment
-with findings, improvise together, and enjoy the thrill of new learning
-with a network of support. The goal in terms of inclusion would be to
-reach 20,000 users in four years. The University of Amsterdam would
-begin by including four other universities in this platform, linking the
-students through the coursework. The University of California Santa
-Barbara, University of California Irvine, and Humboldt University of
-Berlin are highly motivated to take part in this platform.
+offline components. Our goal is to introduce four new courses of 12 ETCs
+each, adding one new course each year. The new courses would enable
+Coding the Humanities to expand students' introduction to programming to
+an open space where they would collaborate with people from all over the
+world in their ICT engagement. It would foster communication among
+students and other participants by serving as a space where they can
+share and experiment with findings, improvise together, and enjoy the
+thrill of new learning with a network of support. The goal in terms of
+inclusion would be to reach 20,000 users in four years. The University
+of Amsterdam would begin by including four other universities in this
+platform, linking the students through the coursework. The University of
+California Santa Barbara, University of California Irvine, and Humboldt
+University of Berlin are already highly motivated to take part in this
+platform.
 
 **Lab as interface:** The lab space would be an offline physical space
 in Amsterdam where students could work together with private partners to
@@ -252,24 +163,24 @@ academia. Our goal is to create one new product or service per year that
 meets a need within the humanities, and one new product or service per
 year that meets a need for a more general or different audience.
 
-**Collections as interfaces:** The exhibition would be a combination of
-on and offline projects, culminating in a public six week exhibition in
-Vienna three years into the project. We endeavor to involve students
-from the platform, partners from the lab space, as well as other private
-and public partners, developers, and the general population. This
-exhibition would consist of workshops, data events, speakers, art
-installations, and presentations on relationships between ITC, art,
-business, and cultural heritage.
+**Collections as interfaces:** Collections as interfaces would be a
+combination of on and offline projects, culminating in a public six week
+exhibition in Vienna three years into the project. We endeavor to
+involve students from the platform, partners from the lab space, as well
+as other private and public partners, developers, and the general
+population. This exhibition would consist of workshops, data events,
+speakers, art installations, and presentations on relationships between
+ICT, art, business, and cultural heritage.
 
 We also challenge the traditional educational dichotomy of researchers
 as experts and students as novices. Learning and research are hard to
-separate as both revolve around involve producing and sharing knowledge,
-where each participant can be both the sender and receiver of knowledge.
-This leads us to five principles which will guide our implementation of
-these interfaces:
+separate as both revolve around producing and sharing knowledge, where
+each participant can be both the sender and receiver of knowledge. This
+leads us to five principles which will guide our implementation of these
+interfaces:
 
 **Training over support:** Our first core value is training so that a
-learner will soon be able to pass on the knowledge to another learner.
+learner will soon be able to pass on new knowledge to another learner.
 While support can result in repeatedly assisting the same person with
 the same issue, maintaining a distinction and even hierarchy in skill
 sets, training provides experience to the learner to bring them to an
@@ -280,7 +191,7 @@ our second core principle, which favors collaborative over competitive
 efforts. Owning processes and results together on an equal basis
 promotes great teamwork.
 
-**Online over Massive:** The format of the platform encourages students
+**Online over massive:** The format of the platform encourages students
 to first learn coding online, but intends them to also have a physical
 team within their institution. This complements the Massive Open Online
 Course (MOOC) concept, which includes only an online context for
@@ -297,7 +208,7 @@ tools that are less complicated to begin to use over those that are
 state-of-the-art. Whereas state-of-the-art tools attract primarily the
 technically biased, more accessible tools have the power to reach a
 wider group of new users, including the non-technically biased. This
-supports our goal of inclusion of traditionally and currently
+supports our goal of including traditionally and currently still
 underrepresented populations in ICT.
 
 Coding the Humanities is already a strong and unique research project in
@@ -373,11 +284,11 @@ with agency concerning the application of ICT for knowledge production,
 in order to increase the overall amount of people that can join ICT
 related discussions.
 
-The members of the consortium combine a broad expertise that allows to
-explore how ICT can enhance humanities research and education, how these
-insights can help knowledge institutions to make their heritage more
-accessible and understandable for a larger public and how these
-knowledge can inspire SMEs for the development of new products and
+The members of the consortium combine a broad expertise that allows
+users to explore how ICT can enhance humanities research and education,
+how these insights can help knowledge institutions to make their
+heritage more accessible and understandable for a larger public and how
+this knowledge can inspire SMEs for the development of new products and
 services.
 
 The consortium will provide training and consultation to humanities
@@ -386,15 +297,14 @@ strategies concerning the use and development of ICT for teaching and
 education in an online and offline context that are valuable to other
 universities, public institutions and companies.
 
-In order to involve a large number of students, researcher, scholars but
-also non-technology biased people in general terms, the platform reaches
-out to other universities, knowledge institutions and private partners
-alike in order to initiate a dialogue about new forms of education that
-not only integrates ICT but empowers a large number of people to use and
-shape these technologies to their specific needs. Due to the open
-licenses used the digital tools developed by the students can be applied
-and altered also by social institutions, civic movements or the general
-public.
+In order to involve a large number of students, researchers, scholars
+but also non-technology biased people in general terms, the platform
+reaches out to other universities, knowledge institutions and private
+partners alike in order to initiate a dialogue about new forms of
+education that not only integrates ICT but empowers a large number of
+people to use and shape these technologies to their specific needs. Due
+to the open licenses used, also social institutions, civic movements or
+the general public can apply and alter the digital tools.
 
 **1.3 Concept and approach, quality of the coordination and support
 measures**
@@ -408,12 +318,12 @@ research. As Mitch Resnick has said, not being able to take charge of
 the technological tools we use to meet our own particular needs is
 similar to being able only to read a language but not write. For full
 use of the language and to use it to express ourselves, we must also be
-able to use it to create new structures. To make full use of
-technologies, we must be able not just to use them passively, but to
-modify them. This venture will empower humanities students and scholars
-to proactively drive their own learning and research. When they engage
-with technology through coding, they open the doors to master and
-innovate their own tools.
+able to use it to create new structures.^[^1^](#sdfootnote1sym)^ To make
+full use of technologies, we must be able not just to use them
+passively, but to modify them. This venture will empower humanities
+students and scholars to proactively drive their own learning and
+research. When they engage with technology through coding, they open the
+doors to master and innovate their own tools.
 
 The coding platform will build upon Coding the Humanities, an already
 strong research project at the University of Amsterdam that has been
@@ -424,10 +334,10 @@ technology within the humanities faculty. It currently introduces
 programming to humanities students through coursework. We have three
 courses that are incorporated into the curriculum on programming basics.
 The course "Art, Science, and Technology" is running now, and the
-courses "Coding the Humanities" and "From Objected Data" will both begin
-in September 2014. Increasing the number of humanities students and
-scholars with programming skills through this coding platform will allow
-them to shape and create digital tools that meet their particular
+courses "Coding the Humanities" and "From Object to Data" will both
+begin in September 2014. Increasing the number of humanities students
+and scholars with programming skills through this coding platform will
+allow them to shape and create digital tools that meet their particular
 research needs and encourage new forms of learning, teaching and
 knowledge production. This skillset will sensitize the participants to
 their technological environment and make them aware of the challenges
@@ -502,11 +412,11 @@ CtH pursues this goal by addressing humanities students and at the same
 time provides an online learning interface that reaches out to
 non-technologically biased people in general by lowering the threshold
 to engage with ICT. This platform therefore opens up the closed
-university realm for the education up to bigger numbers and overcomes
-the limitation of ICT training to a cultural, technological and
-economical elite.
+university realm for the education to bigger numbers and overcomes the
+limitation of ICT training to a cultural, technological and economical
+elite.
 
-Whereas classical digital humanities programs often rely ICT experts
+Whereas classical digital humanities programs often rely on ICT experts
 that develop programs for the humanities and provide for supportive
 actions for the implementation of these tools, coding the humanities
 seeks to train the students and researchers themselves to shape ICT and
@@ -517,7 +427,7 @@ experts.
 
 The platform provides an "online first" approach which means that the
 students find the means to learn coding and work collaboratively online
-first through courses and tutorials but can complement these tools with
+first through courses and tutorials, and can complement these tools with
 offline meetings. This approach avoids the mere transfer of offline
 teaching methods into the online world, which is a typical weakness of
 many Massive Open Online Courses (MOOCs), but explores what offline
@@ -525,19 +435,18 @@ collaboration can be informed by strategies applied with online tools
 and how innovative offline practices can initiate and foster online
 cooperation. It seeks to provide students with the technological
 foundations to acquire and develop these skills by themselves and in
-peer learning based processes, based on tutorials and assignments
+peer learning based processes, based on tutorials and assignments.
 
-CtH projects are produced and stored under open licenses which
+CtH projects are produced and stored under open licenses, which
 encourages the collaboration and reuse of the software tools by other
-institutions, companies or partners and therefore provides. These
-platform in this sense triggers direct debate on the status of ICT in
-the humanities.
+institutions, companies or partners. The platform in this sense triggers
+direct debate on the status of ICT in the humanities.
 
-In times of big data more and more data is available but not necessary
+In times of big data, more and more data is available but not necessary
 turned into knowledge. The Coding the Humanities platform educates
 students, researchers and non-technologically biased people on how to
 approach this data. It allows its participants to gain insights by
-addressing these dataset. The CtH projects and tools are therefore
+addressing these datasets. The CtH projects and tools are therefore
 easily relateable to already existing open data movements - it seeks to
 provide its users with digital agency that evolves into debates on open
 data.
@@ -586,21 +495,21 @@ to the full range of programming possibilities.
 Furthermore, the platform is tool oriented. Students develop small tools
 and widgets that perform small parts of the research they want to
 conduct. The reason to focus on tools is that researchers in general and
-humanities scholars in particular need to reflect critically on the
-tools they use for their research. By becoming proficient at
-conceptualising and developing tools, scholars develop a keen eye for
-perceiving how digital tools work in general.
+scholars in particular need to reflect critically on the tools they use
+for their research. By becoming proficient at conceptualising and
+developing tools, scholars develop a keen eye for perceiving how digital
+tools work in general.
 
 Developments in programming languages have shifted the focus from
 computation to language. Commands in modern programming languages are
 more like natural language expressions, whereas older languages forced
 programmers to formulate very algebraic commands. This makes modern
-languages more intuitive to use, which lowers the threshold and together
-with the vast number of interesting JavaScript modules available on the
-web, even novice programmers can build interesting applications in a
-matter of hours or days instead of months or years. Promoting
-programming skills to a large audience makes more sense now than ever
-before.
+languages more intuitive to use, opening them to a wider base of
+learners and together with the vast number of interesting JavaScript
+modules available on the web, even novice programmers can build
+interesting applications in a matter of hours or days instead of months
+or years. Promoting programming skills to a large audience makes more
+sense now than ever before.
 
 **User Experience**
 
@@ -635,13 +544,14 @@ situated in between the involved actors. The "living lab" we propose
 shows how this can lead to innovation. The physical lab provices a space
 for embedded research, a place for "overlapping", theory and artistic
 practice, physical and digital research, of studio, workshop, library,
-of institutions - private and public, an independent place
+of institutions - private and public; an independent place to
+experiment.
 
 **Introduction**
 
 One of the challenges concerning new forms of online learning is to form
 a community of participants that are interested to engage with a
-platform over a longer period of time and actively contribution to
+platform over a longer period of time and actively contribute to
 sustainable projects. This sub-project addresses these challenges by the
 design and production of an offline living lab as interface between
 digital and analogue world.
@@ -655,7 +565,7 @@ grounded in society instead of in research laboratories. This practice
 is to lead to unexpected insights into user ideas and practices
 (Almirall, 2008: 43 Almirall, E. (2008). Living Labs and Open
 Innovation: Roles and Applicability. The Electronic Journal for Virtual
-Organizations and Networks, 10(August), 21-46) and lead to the
+Organizations and Networks, 10 (August), 21-46) and lead to the
 development of more successful ICTs. To gain unexpected insights,
 methodologies focus on the inclusion of real (end) users in daily life
 contexts. The Living Lab thus also comprises a setting; a setting that
@@ -666,20 +576,20 @@ J., M, P., Slot, M., Bierhof, J., & Diocaretz, M. (2005). Test &
 Experimentation Platforms for Broadband Innovation: Conceptualizing and
 Benchmarking International Best Practice).
 
-This living lab, the OverLab, will explore the integration and
-complementation of ICT based learning and collaboration into an offline
-environment. It will serve as a testbed to initiate, support and foster
-online ICT projects. At the same time, the strategies and practices of
-the analogue space inform the development of the digital platform.
-Innovative perspectives on the application of ICT in general and its
-integration into an offline space will be explored through experimental,
-user focused workshops that result in a physical space. The conception
-and design of the lab according to user needs is a crucial part within
-this subproject. This approach will produce models and concepts for the
-design and user culture of a living lab that feeds of and informs the
-online learning platform. The process will be openly documented and
-intends the imitation and formation of living labs related to the coding
-the humanities platform.
+This living lab will explore the integration and complementation of ICT
+based learning and collaboration into an offline environment. It will
+serve as a testbed to initiate, support and foster online ICT projects.
+At the same time, the strategies and practices of the analogue space
+inform the development of the digital platform. Innovative perspectives
+on the application of ICT in general and its integration into an offline
+space will be explored through experimental, user focused workshops that
+result in a physical space. The conception and design of the lab
+according to user needs is a crucial part within this subproject. This
+approach will produce models and concepts for the design and user
+culture of a living lab that feeds of and informs the online learning
+platform. The process will be openly documented and intends the
+imitation and formation of living labs related to the coding the
+humanities platform.
 
 The initial users of this interface are researchers that are situated in
 between a variety of aspects themselves: Embedded researchers work
@@ -736,12 +646,12 @@ public and private partner using design thinking. When working from a
 human-centered approach it is crucial to not think of the form of the
 outcome right away or to be limited to just one medium or technology.
 But in order to experiment and innovate, a flexible workspace is as much
-needed as a flƒexible methodological framework which stimulates creating
+needed as a flexible methodological framework which stimulates creating
 research designs with specific tools.
 
-Challenge The work space of the embedded researchers are regular office
+Challenge: The work space of the embedded researchers are regular office
 spaces at the university, supplied with a desk and a computer. The scope
-of most projects however requires a variety of work settings. When
+of most projects, however, requires a variety of work settings. When
 working from a human-centered approach it is crucial to not think of the
 form of the outcome right away or to be limited to just one medium or
 technology. But in order to experiment and innovate, a flexible
@@ -755,11 +665,12 @@ structures create a sustainable link with an online learning
 environment? And how can the analogue and digital workspaces best be
 linked to each other?
 
-How to: user-centered approach Design Thinking aims at ﬁnding out about
-users's needs via an ethnographic research tools, synthesizes, narrows
-insights down to hit the core of a problem, condensed synthesis enables
-to start into an ideation part generates a broad variety of ideas, makes
-ideas tangible in rapid and rough prototypes, cost-efﬁcient development
+How to: The user-centered approach Design Thinking aims at ﬁnding out
+about users' needs via an ethnographic research tools. It synthesizes,
+narrows insights down to hit the core of a problem. Condensed synthesis
+enables to start into an ideation part generates a broad variety of
+ideas, makes ideas tangible in rapid and rough prototypes, cost-efﬁcient
+development.
 
 Future University related research has to be informed by open
 methodologies. Increasingly funding is spread competitively for small
@@ -767,7 +678,7 @@ research periods, also in order to foster the collaboration between the
 public and the private sector, for example in the form of embedded
 researchers. Even though the emphasis here is on sustainable research,
 the projects are often closed and presented and not open for further
-development (unless some additional funding allows to proceed) Truely
+development (unless some additional funding allows to proceed). Truely
 sustainable research is OPEN and would mean that a project has releases
 - at some point (after the official end of the research period) other
 students, embedded researchers are allowed and encouraged to take the
@@ -781,25 +692,25 @@ as well as hands-on approaches in their research. Current workspaces do
 not provide enough space, the right material, or the appropriate
 technology to experiment. It is also essential to have a methodological
 framework for researching interdisciplinary methodology, as well as best
-practice for building sustainable public-private-partnerships
+practice for building sustainable public-private-partnerships.
 
 **1.3.3.3 Collections as Interfaces**
 
 Collection as an interface: the exploration of the opportunities
 interfaces and visualization of data holds for knowledge production and
-inclusion
+inclusion.
 
 There are not only dramatic geographic differences in accessibility to
 and user skills of ICT but also socio-economic and demographic gaps.
-[^1^](#sdfootnote1sym) Vast societal groups face the problem of digital
-exclusion. Accessibility to and digital literacy about ICTs determine
-whether a person is included into economic, social and cultural life,
-and whether they can participate in decision making processes within the
-democratic realm. In other words, using and comprehending ICT is about
-agency and inclusion. With regard to the growing impact of ICT not only
-on economic productivity but also within the cultural, social and
-political realm, this exclusion forms a challenge in terms of equality,
-inclusion and chances of participation.
+^[^2^](#sdfootnote2sym)^ Vast societal groups face the problem of
+digital exclusion. Accessibility to and digital literacy about ICTs
+determine whether a person is included into economic, social and
+cultural life, and whether they can participate in decision making
+processes within the democratic realm. In other words, using and
+comprehending ICT is about agency and inclusion. With regard to the
+growing impact of ICT not only on economic productivity but also within
+the cultural, social and political realm, this exclusion forms a
+challenge in terms of equality, inclusion and chances of participation.
 
 One area in which the challenge of digital literacy and exclusion is
 prominent is within humanities research. Academia is increasingly
@@ -809,7 +720,7 @@ allow to structure, search, correlate, analyze, but most importantly,
 present and visualize this data. This is also true for working fields
 related to the humanities: museums, libraries and archives are
 challenged to make the huge data sets that result from digitalization of
-the cultural heritage they foster [^2^](#sdfootnote2sym), accessible and
+the cultural heritage they foster [^3^](#sdfootnote3sym), accessible and
 understandable for as many people as possible. Despite the opportunities
 these mass resources generated in numerous digitization projects
 provide, humanities researchers and students are - due to a lack of
@@ -818,13 +729,13 @@ skills - reluctant to exploit these troves.
 At the same time, governments, municipalities and cultural institutions
 increasingly share their data openly online. A good example of this
 development in the field of cultural heritage is our partner in this
-project the Europeana network[^3^](#sdfootnote3sym). But also in the
+project the Europeana network ^[^4^](#sdfootnote4sym)^. But also in the
 political field a lot of open data sets wait be explored by dedicated
 citizen. The skills to compile graspable information from big data sets
 therefore become more important on the level of politics and social
 agency. It allows civic movements but also single citizens to understand
 political and social processes, identify problems and develop solutions
-- that can be software based.[^4^](#sdfootnote4sym)
+- that can be software based.[^5^](#sdfootnote5sym)
 
 Coding the Humanities trains students and researchers to read and handle
 data streams and shows possible ways to translate these into
@@ -848,7 +759,7 @@ newly developed JavaScript coding skills with enhanced visualization
 applications literacy, allows humanities' researchers to elicit new
 knowledge and scientific insights by experimenting with existing
 JavaScript libraries such as D3 (Data Driven Documents)
-[^5^](#sdfootnote5sym) while also gaining good control over the visual
+^[^6^](#sdfootnote6sym)^ while also gaining good control over the visual
 outcome of their research endeavors. These tools thus enhance the
 analysis and understanding of complex relations and concepts relevant to
 humanities' research. At the same time data sets become comprehensible
@@ -918,7 +829,7 @@ However, at the end of the first year, a trial event will be organized
 in Vienna, where first results are to be presented. Between the first
 and third year, the consortium will work on realizing the six week
 exhibition through crowdfunding mechanisms, such as
-kickstarter.[^6^](#sdfootnote6sym)
+kickstarter.[^7^](#sdfootnote7sym)
 
 **Consortium**
 
@@ -969,14 +880,14 @@ benefit from research and network of the Creative Research Centre
 Amsterdam to connect with SMEs of the creative industries sector to
 collaborate on the development of innovative products and services.
 Collaboration with Material Encounters with Digital Cultural Heritage
-(meSch)[^7^](#sdfootnote7sym) is a highly likely possibility, as the UvA
+(meSch)[^8^](#sdfootnote8sym) is a highly likely possibility, as the UvA
 is already involved in this project. It is a four year European Union
 funded project based in the United Kingdom that aims to co-design novel
 platforms for the creation of tangible exhibits at heritage sites.
 Curators will be able to offer visitors new interactive experiences
 through material interaction with smart objects.
 
-Additionally, V-MusT.net[^8^](#sdfootnote8sym) could be a potential
+Additionally, V-MusT.net[^9^](#sdfootnote9sym) could be a potential
 network to collaborate with. It is a network of excellence that focuses
 on virtual museums, endeavoring to provide the heritage sector with the
 tools and support to develop virtual museums that are educational,
@@ -1014,15 +925,15 @@ male-dominated world of coding and technology in general.
 
 The number of woman attracted by coding within CtH could be increased by
 collaborations with initiatives that seek to do the same - increase the
-number of female coders, like Railsgirls[^9^](#sdfootnote9sym) or
-geekettes [^10^](#sdfootnote10sym) in forms of workshops, information
+number of female coders, like Railsgirls[^10^](#sdfootnote10sym) or
+geekettes [^11^](#sdfootnote11sym) in forms of workshops, information
 evenings in the lab.
 
 A recent EU study shows that only 30% of the people in the ICT sector in
 Europe are women, a number that mirrors the low number of women with a
 degree in that field. Digital Agenda: Bringing more women into EU
 digital sector would bring €9 billion annual GDP boost
-[^11^](#sdfootnote11sym), EU study shows While the same study shows the
+[^12^](#sdfootnote12sym), EU study shows While the same study shows the
 potential of having more woman working in that field traditional ICT
 programs fail to attract female students. At the same time female
 students in the humanities outnumber male students. Thus an approach
@@ -1060,7 +971,7 @@ user therefore become a collaborator and multiplyer.
 
 **Targets**
 
-As concrete targets we intent to:
+As concrete targets we intend to:
 
 - have 20.000 active users of the online platform after four years
 
@@ -1069,35 +980,35 @@ As concrete targets we intent to:
 - have the model of the lab implemented by at least four other public or
 private institutions
 
-- reach at least 1000 people workshops, presentations, hackathons with
-varying levels of technological knowledge
+- reach at least 1.000 people at workshops, presentations, and
+hackathons with varying levels of technological knowledge
 
-- to give presentations together with the private partners on at least 5
+- give presentations together with the private partners on at least 5
 conferences / symposiums per year
 
 - involve international digital/media artists and reach and involve
-hundreds of visitors of the fare for digital devices in Vienna in 2017
+hundreds of visitors of the exhibition in Vienna in 2017.
 
 **Reaching these goals**
 
 **University of Amsterdam**
 
 The three offline courses "Art, Science, and Technology", "Coding the
-Humanities", "From Object to Data" initiate the participation on the
+Humanities", and "From Object to Data" initiate the participation on the
 platform with 20 students per course, 60 students in total in 2014 and
 create a awareness of the project before the official release.
 
-In the following years four courses (12 ECT) per year starting 2015 will
-reach 320 students. These students are meant to work as tutors and pass
-on their knowledge to other humanities students and engage with them in
-projects based on their research interests.
+In the following years four courses (12 ECTs) per year starting 2015
+will reach 320 students. These students are meant to work as tutors and
+pass on their knowledge to other humanities students and engage with
+them in projects based on their research interests.
 
 During the same time 40 embedded researchers will use the online
-interface and the pilot and the actual physical lab. The experience
-gained for the work within this analogue and digital collaborative
-space, naturally integrates into their research which is aimed at
-modeling a product or service for a cultural institution with regard to
-the digital enhancement the services.
+interface, the pilot and the actual physical lab. The experience gained
+for the work within this analogue and digital collaborative space,
+naturally integrates into their research which is aimed at modeling a
+product or service for a cultural institution with regard to the digital
+enhancement the services.
 
 **Best practice models for other universities and organizations**
 
@@ -1330,12 +1241,12 @@ The material generated and collected shall be open for use and reuse.
 
 Code and the digital tools resulting from students' work and
 collaborations with partners will be stored on different repositories on
-github [^12^](#sdfootnote12sym). In order to guarantee the accessiblity
-and to give the possibility to re-use the code, it will be stored under
-the MIT[^13^](#sdfootnote13sym) license. This license will be attached
-by default to every repository create on github by its the users. The
-users will be informed about this procedure and the license on the
-platform.
+github ^[^13^](#sdfootnote13sym)^. In order to guarantee the
+accessiblity and to give the possibility to re-use the code, it will be
+stored under the MIT^[^14^](#sdfootnote14sym)^ license. This license
+will be attached by default to every repository create on github by its
+the users. The users will be informed about this procedure and the
+license on the platform.
 
 CtH seeks to clone interesting student profiles into one repository
 reserved for this purpose in order to create and present an interesting
@@ -1344,7 +1255,7 @@ portfolio.
 Documents, like evaluations, reports, presentations or conference papers
 will be made accessible and stored on github by the different parties of
 the consortium under the Creative Commons "share
-alike"[^14^](#sdfootnote14sym) license.
+alike"[^15^](#sdfootnote15sym) license.
 
 Video and audio material will be stored and made accessible under the
 same license on the websites of the parties of the consortium who
@@ -1352,7 +1263,7 @@ porduced the content.
 
 In order to make guarantee the conservation and accessibility of that
 content over a long period of time we are going to use services like
-DANS. [^15^](#sdfootnote15sym)
+DANS. ^[^16^](#sdfootnote16sym)^
 
 \
  The project fundamentally builds on open source and knowledge
@@ -1404,7 +1315,7 @@ aren't strongly developed yet. The research centers innokom and
 Stifterverband conclude in their trend study on science communication,
 that the step towards "an open-result-oriented, societally engaged
 dialogue is overdue. Drivers behind this development are new formats in
-interactive media".[^16^](#sdfootnote16sym) Until now, science
+interactive media".[^17^](#sdfootnote17sym) Until now, science
 communication has been communication by the universities' press office,
 who pubslished research results with gate keeper principles. Which means
 that the results were communicated further depending on whether or not
@@ -1550,7 +1461,7 @@ business, and cultural heritage.
 
 **Start Date or Starting Event**
 
-Kick-off workshop 10/2014
+Kick-off workshop 12/2014
 
 **Work package title**
 
@@ -1797,7 +1708,7 @@ DEC
 
 PU
 
-10/2014
+12/2014
 
 3.3
 
@@ -2461,44 +2372,47 @@ collaborative working on the platform / the lab
 4.3.4 coming out: cultural hackathon event inviting the general public
 to work with the student proposals and the museum datasets
 
-[1](#sdfootnote1anc) Menzie D. Chinn and Robert W. Fairlie: *The
+[1](#sdfootnote1anc)
+[http://www.ted.com/talks/mitch\_resnick\_let\_s\_teach\_kids\_to\_code](http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code)
+
+[2](#sdfootnote2anc) Menzie D. Chinn and Robert W. Fairlie: *The
 determinants of the global digital*
 
 *divide: a cross-country analysis of*
 
 *computer and internet penetration. Oxford University Press 2006*
 
-[2](#sdfootnote2anc) cf. www.opencultuurdata.nl/
+[3](#sdfootnote3anc) cf. www.opencultuurdata.nl/
 
-[3](#sdfootnote3anc) www.europeana.eu
+[4](#sdfootnote4anc) www.europeana.eu
 
-[4](#sdfootnote4anc) Cf
+[5](#sdfootnote5anc) Cf
 [http://gdeltproject.org/](http://gdeltproject.org/); https://okfn.org/
 
-[5](#sdfootnote5anc) http://d3js.org/
+[6](#sdfootnote6anc) http://d3js.org/
 
-[6](#sdfootnote6anc) www.kickstarter.com
+[7](#sdfootnote7anc) www.kickstarter.com
 
-[7](#sdfootnote7anc) www.mesch-project.eu
+[8](#sdfootnote8anc) www.mesch-project.eu
 
-[8](#sdfootnote8anc) http://www.v-must.net/
+[9](#sdfootnote9anc) http://www.v-must.net/
 
-[9](#sdfootnote9anc) www.railsgirls.com
+[10](#sdfootnote10anc) www.railsgirls.com
 
-[10](#sdfootnote10anc) www.geekettes.io
+[11](#sdfootnote11anc) www.geekettes.io
 
-[11](#sdfootnote11anc) cf. "Woman in ICT",
+[12](#sdfootnote12anc) cf. "Woman in ICT",
 http://ec.europa.eu/digital-agenda/en/women-ict [accessed 21.04.2014]
 
-[12](#sdfootnote12anc) www.github.com
+[13](#sdfootnote13anc) www.github.com
 
-[13](#sdfootnote13anc) For information on the MIT license please find
+[14](#sdfootnote14anc) For information on the MIT license please find
 information on: http://opensource.org/licenses/MIT.
 
-[14](#sdfootnote14anc) www.creativecommons.org
+[15](#sdfootnote15anc) www.creativecommons.org
 
-[15](#sdfootnote15anc) www.dans.knaw.nl/en
+[16](#sdfootnote16anc) www.dans.knaw.nl/en
 
-[16](#sdfootnote16anc) Gerber, Alexander (2011): Trendstudie
+[17](#sdfootnote17anc) Gerber, Alexander (2011): Trendstudie
 Wissenschaftskommunikation - Vorhang auf für Phase 5., Berlin: edition
 innovare / innokomm Forschungszentrum, p.24
